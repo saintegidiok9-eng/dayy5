@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my1stone
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# dayy5
+my daily commit
+>>>>>>> 841e30322b58df283cb91d1be368c12f5dbbdab8
